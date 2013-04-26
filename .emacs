@@ -1,3 +1,5 @@
+(load-theme 'wheatgrass)
+
 (add-to-list 'load-path "~/.emacs.d/")
 (require 'ido)
 (ido-mode t)
@@ -8,6 +10,9 @@
 
 (add-to-list 'load-path "~/.emacs.d/magit/")
 (require 'magit)
+
+(add-to-list 'load-path "~/.emacs.d/dash.el")
+(require 'dash)
 
 (ido-mode t)
 (setq ido-enable-flex-matching t)
