@@ -1,4 +1,4 @@
-(load-theme 'wheatgrass)
+(load-theme 'manoj-dark)
 
 (add-to-list 'load-path "~/.emacs.d/")
 (require 'ido)
