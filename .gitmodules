@@ -1,9 +1,9 @@
-[submodule ".emacs.d/evil"]
-	path = .emacs.d/evil
-	url = git://gitorious.org/evil/evil.git
 [submodule ".emacs.d/magit"]
 	path = .emacs.d/magit
 	url = https://github.com/magit/magit
 [submodule ".emacs.d/dash.el"]
 	path = .emacs.d/dash.el
 	url = https://github.com/magnars/dash.el
+[submodule ".emacs.d/undo-tree"]
+	path = .emacs.d/undo-tree
+	url = https://github.com/emacsmirror/undo-tree

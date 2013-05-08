@@ -1,7 +1,5 @@
 This is how you go not-crazy using emacs from being on vim. (Note: Some are already included here, some are TODO)
 
-Modern vim mode: http://www.emacswiki.org/emacs/Evil
-
 Plugin equivalences:
 - CtrlP/CmdT (fuzzy finder): http://www.emacswiki.org/emacs/InteractivelyDoThings
 - GundoToggle: http://www.emacswiki.org/emacs/UndoTree
@@ -10,7 +8,6 @@ Plugin equivalences:
 - vim-rails: https://github.com/antono/evil-rails
   - Depends on: http://rinari.rubyforge.org/
 - &lt;leader>: https://github.com/cofi/evil-leader
-- NERDCommenter: https://github.com/redguardtoo/evil-nerd-commenter
 - QuickFixSigns: https://github.com/syohex/emacs-git-gutter-fringe
 - Syntastic: http://flymake.sourceforge.net/
 - colorcolumn: http://www.emacswiki.org/FillColumnIndicator
